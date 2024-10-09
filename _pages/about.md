@@ -16,8 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Master's student at EPFL, studying Data Science with a minor in Financial Engineering. I've worked on some interesting projects, like developing AI platforms and machine learning models, and have experience as a data scientist at Atos and a machine learning engineer at an EdTech EPFL startup. I love tackling complex problems, especially those involving remote sensing, NLP and AI. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I enjoy cycling, taking pictures and flying drones (though I sometimes crash them). I also lead student-run projects and entrepreneurial ventures, always looking for new challenges to put my skills to the test!
