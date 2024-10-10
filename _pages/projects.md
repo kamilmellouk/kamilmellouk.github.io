@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A selection of projects I have worked on.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [ongoing, past]
 horizontal: true
 ---
@@ -48,7 +48,7 @@ horizontal: true
 {% if page.horizontal %}
 
   <div class="container">
-    <div class="row row-cols-1 row-cols-md-1">
+    <div class="row row-cols-1">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
