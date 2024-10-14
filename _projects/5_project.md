@@ -3,7 +3,7 @@ layout: page
 title: Handwriting Features - Explainability and Transferability
 description: A study on developing explainable handwriting features with predictive power and transferability to drawings
 img: assets/img/handwriting_features.png
-importance: 2
+importance: 3
 category: past
 giscus_comments: false
 ---

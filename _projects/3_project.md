@@ -3,7 +3,7 @@ layout: page
 title: Twitter Sentiment Classification
 description: Machine learning model for classifying tweets into sentiment categories using NLP and deep learning techniques
 img: assets/img/twitter_sentiment.png
-importance: 2
+importance: 5
 category: past
 giscus_comments: false
 ---
