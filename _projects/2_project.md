@@ -1,20 +1,22 @@
 ---
 layout: page
-title: Probabilistic trip planner
-description: robust probabilistic trip planner for Zurich on the swiss public transport network
-img: assets/img/planner.gif
-importance: 2
+title: Geordle
+description: ReactJS web app for playing a Geordle, a mix between Geoguessr and Wordle
+img: assets/img/geordle.png
+importance: 1
 category: past
-giscus_comments: false
+related_publications: false
 ---
-
-Developed a robust public transport route planner for Zurich using big data analytics and real-time data integration. Utilized Spark and distributed file systems to process large-scale datasets, designing predictive algorithms to optimize route reliability and efficiency within specified confidence intervals. Enhanced user experience by incorporating and interactive visualizations.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/planner.gif" title="planner interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/geordle.png" title="Geordle interface during a game" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Planner interface
+    Geordle interface during a game
 </div>
+
+This project assignment was was implemented with the help of 2 classmates for the course [DH2642 - Interaction Programming and the Dynamic Web](https://www.kth.se/student/kurser/kurs/DH2642?l=en) at [KTH Royal Institute of Technology](kth.se).
+
+It consists of a city guessing game, somewhere between [Wordle](https://www.nytimes.com/games/wordle/index.html) and [GeoGuessr](https://www.geoguessr.com/): the user needs to find a mystery city using a limited number of guesses. Each new guess gives the player information on how the city he guessed compares to the one he needs to find.
+

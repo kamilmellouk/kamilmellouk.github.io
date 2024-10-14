@@ -5,7 +5,7 @@ description: ReactJS web app for playing a Geordle, a mix between Geoguessr and 
 img: assets/img/geordle.png
 importance: 1
 category: past
-related_publications: true
+related_publications: false
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
