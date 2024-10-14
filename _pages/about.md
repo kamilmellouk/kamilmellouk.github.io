@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a Master's student at EPFL, studying Data Science with a minor in Financial Engineering. I've worked on some interesting projects, like developing AI platforms and machine learning models, and have experience as a data scientist at Atos and a machine learning engineer at an EdTech EPFL startup. I love tackling complex problems, especially those involving remote sensing, NLP and AI. 
+I'm a Masters student at EPFL, studying *Data Science* with a minor in Financial Engineering. I've worked on some interesting projects, like developing *AI platforms* and machine learning models, and have experience as a data scientist at Atos and a machine learning engineer at an EdTech EPFL startup. I love tackling complex problems, especially those involving *remote sensing, NLP and AI*. 
 
-Outside of work, I enjoy cycling, taking pictures and flying drones (though I sometimes crash them). I also lead student-run projects and entrepreneurial ventures, always looking for new challenges to put my skills to the test!
+Outside of work, I enjoy *cycling*, *taking pictures* and *flying drones* (though I sometimes crash them). I also lead *student-run projects and entrepreneurial ventures*, always looking for new challenges to put my skills to the test!
