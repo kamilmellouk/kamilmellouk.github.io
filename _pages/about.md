@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I'm a Master's student at EPFL, studying Data Science with a minor in Financial Engineering. I've worked on some interesting projects, like developing AI platforms and machine learning models, and have experience as a data scientist at Atos and a machine learning engineer at an EdTech EPFL startup. I love tackling complex problems, especially those involving remote sensing, NLP and AI. 
