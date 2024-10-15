@@ -2,7 +2,7 @@
 layout: page
 title: Transformer Architecture for Sentence Compression
 description: Implemented a Transformer architecture from scratch in Python and fine-tuned it for the task of sentence compression.
-img: assets/img/transformer_compression.png
+img: assets/img/transformer.png
 importance: 3
 category: current
 giscus_comments: false
