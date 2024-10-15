@@ -3,7 +3,7 @@ layout: page
 title: DPO-finetuned RAG-augmented LLM for answering scientific MCQs
 description: A project that integrates Direct Preference Optimization (DPO) and Retrieval-Augmented Generation (RAG) to develop an AI tutor for EPFL’s demanding curriculum.
 img: assets/img/rag.png
-importance: 1
+importance: 2
 category: past
 giscus_comments: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Geordle
 description: ReactJS web app for playing a Geordle, a mix between Geoguessr and Wordle
 img: assets/img/geordle.png
-importance: 6
+importance: 7
 category: past
 related_publications: false
 ---
