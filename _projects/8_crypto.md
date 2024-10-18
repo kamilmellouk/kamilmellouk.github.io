@@ -3,7 +3,7 @@ layout: page
 title: Changepoint Detection and Dynamic Correlation in Cryptocurrency Markets
 description: Intraday analysis of cryptocurrency markets using dynamic correlation models and changepoint detection techniques
 img: assets/img/crypto_correlation.png
-importance: 5
+importance: 8
 category: past
 giscus_comments: false
 ---
